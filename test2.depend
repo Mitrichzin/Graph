@@ -1,0 +1,232 @@
+# depslib dependency file v1.0
+1568113607 source:w:\cpp\test2\src\clcircle.cpp
+	"ClCircle.h"
+
+1568113660 w:\cpp\test2\include\clcircle.h
+	"ClDraw.h"
+
+1568116597 source:w:\cpp\test2\test2.cpp
+	"ClNode.h"
+	"ClRib.h"
+
+1567780481 w:\cpp\test2\include\cldraw.h
+	<graphics.h>
+	<iostream>
+	<stdlib.h>
+
+1568114406 source:w:\cpp\test2\src\clline.cpp
+	"ClLine.h"
+
+1568114223 w:\cpp\test2\include\clline.h
+	"ClDraw.h"
+
+1568113296 source:w:\cpp\test2\src\clnode.cpp
+	"ClNode.h"
+
+1568113174 w:\cpp\test2\include\clnode.h
+	"ClCircle.h"
+
+1568114300 source:w:\cpp\test2\src\clrib.cpp
+	"ClRib.h"
+
+1568115150 w:\cpp\test2\include\clrib.h
+	<ClLine.h>
+
+1568116536 source:w:\cpp\test2\src\clgraph.cpp
+	"ClGraph.h"
+
+1568116989 w:\cpp\test2\include\clgraph.h
+	<ClDraw.h>
+
+1568113607 source:d:\test2\src\clcircle.cpp
+	"ClCircle.h"
+
+1568113660 d:\test2\include\clcircle.h
+	"ClDraw.h"
+
+1572296607 d:\test2\include\cldraw.h
+	<graphics.h>
+	<iostream>
+	<stdlib.h>
+	<cstdio>
+	<fstream>
+	<cstdio>
+	<cmath>
+
+1568114406 source:d:\test2\src\clline.cpp
+	"ClLine.h"
+
+1568114223 d:\test2\include\clline.h
+	"ClDraw.h"
+
+1568113296 source:d:\test2\src\clnode.cpp
+	"ClNode.h"
+
+1568113174 d:\test2\include\clnode.h
+	"ClCircle.h"
+
+1572294880 source:d:\test2\src\clrib.cpp
+	"ClRib.h"
+
+1572339061 d:\test2\include\clrib.h
+	<ClLine.h>
+
+1572339541 source:d:\test2\test2.cpp
+	"ClGraph.h"
+
+1572336978 source:d:\test2\src\clgraph.cpp
+	"ClGraph.h"
+	"ClNode.h"
+	"ClRib.h"
+
+1572338184 d:\test2\include\clgraph.h
+	<vector>
+	<ClDraw.h>
+	"ClGraph.h"
+	"ClNode.h"
+	"ClRib.h"
+
+1568113607 source:e:\test2\src\clcircle.cpp
+	"ClCircle.h"
+
+1568113660 e:\test2\include\clcircle.h
+	"ClDraw.h"
+
+1572349545 e:\test2\include\cldraw.h
+	<graphics.h>
+	<iostream>
+	<stdlib.h>
+	<cstdio>
+	<fstream>
+	<cstdio>
+	<cmath>
+	<locale>
+
+1568114406 source:e:\test2\src\clline.cpp
+	"ClLine.h"
+
+1568114223 e:\test2\include\clline.h
+	"ClDraw.h"
+
+1568113296 source:e:\test2\src\clnode.cpp
+	"ClNode.h"
+
+1568113174 e:\test2\include\clnode.h
+	"ClCircle.h"
+
+1572294880 source:e:\test2\src\clrib.cpp
+	"ClRib.h"
+
+1572350328 e:\test2\include\clrib.h
+	<ClLine.h>
+
+1572350844 source:e:\test2\test2.cpp
+	"ClGraph.h"
+
+1572349127 e:\test2\include\clgraph.h
+	<vector>
+	<ClDraw.h>
+	"ClNode.h"
+	"ClRib.h"
+
+1572350701 source:e:\test2\src\clgraph.cpp
+	"ClGraph.h"
+	"ClNode.h"
+	"ClRib.h"
+
+1589543879 source:d:\cpp_2019\graph\src\clcircle.cpp
+	<ClCircle.h>
+
+1568113660 d:\cpp_2019\graph\include\clcircle.h
+	"ClDraw.h"
+
+1572349545 d:\cpp_2019\graph\include\cldraw.h
+	<graphics.h>
+	<iostream>
+	<stdlib.h>
+	<cstdio>
+	<fstream>
+	<cstdio>
+	<cmath>
+	<locale>
+
+1589543879 source:d:\cpp_2019\graph\src\clgraph.cpp
+	<ClGraph.h>
+	<ClNode.h>
+	<ClRib.h>
+
+1589543880 d:\cpp_2019\graph\include\clgraph.h
+	<vector>
+	<ClDraw.h>
+	<ClNode.h>
+	<ClRib.h>
+
+1589543880 d:\cpp_2019\graph\include\clnode.h
+	<ClCircle.h>
+
+1572350328 d:\cpp_2019\graph\include\clrib.h
+	<ClLine.h>
+
+1589543880 d:\cpp_2019\graph\include\clline.h
+	<ClDraw.h>
+
+1589543880 source:d:\cpp_2019\graph\src\clline.cpp
+	<ClLine.h>
+
+1589543880 source:d:\cpp_2019\graph\src\clnode.cpp
+	<ClNode.h>
+
+1589543880 source:d:\cpp_2019\graph\src\clrib.cpp
+	<ClRib.h>
+
+1589544186 source:d:\cpp_2019\graph\test2.cpp
+	<ClGraph.h>
+
+1589972518 source:c:\users\user\desktop\Новая папка\graph\src\clcircle.cpp
+	<ClCircle.h>
+
+1568113660 c:\users\user\desktop\Новая папка\graph\include\clcircle.h
+	"ClDraw.h"
+
+1572349545 c:\users\user\desktop\Новая папка\graph\include\cldraw.h
+	<graphics.h>
+	<iostream>
+	<stdlib.h>
+	<cstdio>
+	<fstream>
+	<cstdio>
+	<cmath>
+	<locale>
+
+1589984304 source:c:\users\user\desktop\Новая папка\graph\src\clgraph.cpp
+	<ClGraph.h>
+	<ClNode.h>
+	<ClRib.h>
+
+1589981698 c:\users\user\desktop\Новая папка\graph\include\clgraph.h
+	<vector>
+	<ClDraw.h>
+	<ClNode.h>
+	<ClRib.h>
+
+1589543880 c:\users\user\desktop\Новая папка\graph\include\clnode.h
+	<ClCircle.h>
+
+1589976892 c:\users\user\desktop\Новая папка\graph\include\clrib.h
+	<ClLine.h>
+
+1589543880 c:\users\user\desktop\Новая папка\graph\include\clline.h
+	<ClDraw.h>
+
+1589543880 source:c:\users\user\desktop\Новая папка\graph\src\clline.cpp
+	<ClLine.h>
+
+1589972518 source:c:\users\user\desktop\Новая папка\graph\src\clnode.cpp
+	<ClNode.h>
+
+1589972518 source:c:\users\user\desktop\Новая папка\graph\src\clrib.cpp
+	<ClRib.h>
+
+1589976631 source:c:\users\user\desktop\Новая папка\graph\test2.cpp
+	<ClGraph.h>
+

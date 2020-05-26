@@ -198,7 +198,7 @@
 	<cmath>
 	<locale>
 
-1589984304 source:c:\users\user\desktop\Новая папка\graph\src\clgraph.cpp
+1590493098 source:c:\users\user\desktop\Новая папка\graph\src\clgraph.cpp
 	<ClGraph.h>
 	<ClNode.h>
 	<ClRib.h>
@@ -212,7 +212,7 @@
 1589543880 c:\users\user\desktop\Новая папка\graph\include\clnode.h
 	<ClCircle.h>
 
-1589976892 c:\users\user\desktop\Новая папка\graph\include\clrib.h
+1590493004 c:\users\user\desktop\Новая папка\graph\include\clrib.h
 	<ClLine.h>
 
 1589543880 c:\users\user\desktop\Новая папка\graph\include\clline.h
@@ -227,6 +227,6 @@
 1589972518 source:c:\users\user\desktop\Новая папка\graph\src\clrib.cpp
 	<ClRib.h>
 
-1589976631 source:c:\users\user\desktop\Новая папка\graph\test2.cpp
+1590492572 source:c:\users\user\desktop\Новая папка\graph\test2.cpp
 	<ClGraph.h>
 

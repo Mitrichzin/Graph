@@ -22,8 +22,8 @@ class ClRib : public ClLine
             double arc=0;
             if(Getx2()-Getx1()){
                     if((Getx2()-Getx1())>0)
-                        {arc=3*M_PI_2-atan(double((Gety2()-Gety1()))/(Getx2()-Getx1()));cout<<arc;}
-                    else {arc=-atan(double(Gety2()-Gety1())/(Getx2()-Getx1()))+M_PI_2;cout<<2;}
+                        {arc=3*M_PI_2-atan(double((Gety2()-Gety1()))/(Getx2()-Getx1()));}
+                    else {arc=-atan(double(Gety2()-Gety1())/(Getx2()-Getx1()))+M_PI_2;}
             }
             else if((Gety2()-Gety1())>0) arc=M_PI;
                 else arc=0;

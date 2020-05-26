@@ -104,7 +104,7 @@ void ClGraph::SetGraph()
     fin.open("input.txt",ios_base::in);
     fin>>n;
     m=0;
-    int temp,counter=0;
+    int counter=0;
     vector <int> tmp_matrix;
     tmp_matrix.reserve(n*n);
     for(int i=0; i<n;i++)
@@ -208,6 +208,12 @@ void ClGraph::Dejkstra(int k)
             {
                 cout<<"\nКратчайшее расстояние от "<<k+1<<" до "<<i+1<<" вершины = "<<dist[i]<<"\nА путь идет через вершины "<<i+1<<" ";
                 int c=i;
+                setcolor(3);
+                if(last[c]!=-1)
+                {
+                    ClRib Temp_rib(int(800+300*cos((2*M_PI*last[c])/n))-20,int(400+300*sin((2*M_PI*last[c])/n)),int(800+300*cos((2*M_PI*c)/n))-20,int(400+300*sin((2*M_PI*c)/n)));
+                    Temp_rib.Draw_align(30);
+                }
         while(last[c]!=-1)
         {
             cout<<last[c]+1<<" ";
